@@ -15,7 +15,7 @@ Linear Regression is a supervised machine learning algorithm used for regression
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/linear-regression-from-scratch.git
+   git clone https://github.com/pradeesh-ml/linear-regression-from-scratch.git
    ```
 
 2. Import the `LinearRegression` class:
